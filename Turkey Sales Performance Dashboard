@@ -1,0 +1,13 @@
+# Turkey Sales Performance Dashboard
+
+Bu proje, Türkiye genelinde perakende satış performansını görselleştiren bir Power BI dashboard’udur. Dashboard, marka, satıcı ve şehir bazında satış adetleri, satış tutarı ve maliyetleri göstererek şirketin performansını ve karlılığını analiz etmeyi sağlar.
+
+## Öne Çıkan Özellikler
+- Genel satış performansı ve karlılık analizi
+- Marka ve satıcı bazlı satış dağılımı
+- Türkiye haritası üzerinde şehir bazlı satış yoğunluğu
+- Interaktif filtreleme ile marka ve bölge seçimi
+
+## Ekran Görüntüleri
+![Dashboard Preview 1](dashboard_preview1_project1.png)
+![Dashboard Preview 2](dashboard_preview2_project2.png)
